@@ -1,0 +1,16 @@
+item {
+  id: 1
+  name: 'people'
+}
+item {
+  id: 2
+  name: 'mask'
+}
+item {
+  id: 3
+  name: 'foreign'
+}
+item {
+  id: 4
+  name: 'riskyguy'
+}
